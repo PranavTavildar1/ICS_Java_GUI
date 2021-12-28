@@ -1,0 +1,24 @@
+PA1
+Pranav
+Tavildar
+ITE Basement
+1234567890
+1234567.0
+Active
+Personal
+Toyota
+2019
+Luxury
+Certified Pre-Owned
+PA1
+Vlaho
+Munira
+32 Brown Blvd
+8002341623
+40000.0
+Active
+Personal
+Toyota
+2013
+Sedan
+Used
